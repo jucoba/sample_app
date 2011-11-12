@@ -7,3 +7,4 @@ tmp/
 log/*.log
 doc/
 .DS_Store
+*.swp
