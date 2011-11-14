@@ -26,7 +26,7 @@ describe PagesController do
       get 'contact'
       response.should have_selector("title",
                         :content =>
-                          "Ruby on Rails Tutorial Sample App | Contact")
+                          "Contact")
     end
   end
 
