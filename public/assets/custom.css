@@ -1,5 +1,5 @@
 .container {
-  width: 710px;
+  width: 810px;
 }
 
 body {
@@ -125,4 +125,35 @@ footer {
 footer nav {
   float: none;
 }
+
+#intro {  
+    margin-top: 66px;  
+    padding: 44px;  
+    background: #467612;  
+    background-size: 100%;  
+    border-radius: 22px;  
+} 
+
+#register {  
+    margin-top: 6px;  
+    padding: 44px;  
+    background: #467612;  
+    background-size: 100%;  
+    border-radius: 22px;  
+}
+#content {
+  display: table;
+}
+
+#maincontent
+{
+  display: table-cell
+  width: 620px;
+  padding-right:10px;
+}
+
+aside {  
+        display: table-cell;  
+        width: 300px;
+    } 
 
